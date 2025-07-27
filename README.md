@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://blog-card-jet-psi.vercel.app/)
+- Live Site URL: [Add live site URL here](https://www.frontendmentor.io/solutions/blog-preview-card-VVelORGj3y)
 
 ## My process
 I put everything under one big div and made that as a card and everything else the same that needed box then I progressed to style and made everything flexbox to make them follow each other and used the appropirate colors and fonts.

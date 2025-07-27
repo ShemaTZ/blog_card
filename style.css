@@ -75,6 +75,7 @@ h3{
 }
 h3:hover {
     color: hsl(47, 88%, 63%);
+    cursor: pointer;
 }
 .account {
     font-weight: bold;
